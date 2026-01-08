@@ -65,10 +65,10 @@ const slides = [
   {
     id: 'final',
     title: 'Obrigado!',
-    subtitle: 'Nome da Equipe & Agradecimentos',
+    subtitle: 'Equipe do Projeto',
     content: [
-      'Equipe EDP ADVEC Sorocaba',
-      'Agradecemos a atenção de todos!'
+      'Equipe de Professores: Hoffman, Israel, Naotho',
+      'Equipe de Mídia: Ricardo, Vitor'
     ],
     icon: <CheckCircle2 className="w-12 h-12 text-primary" />,
     image: '/slide-1.png',
